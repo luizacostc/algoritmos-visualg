@@ -1,0 +1,15 @@
+Algoritmo "teste_saida_3"
+
+Var
+    idade : inteiro
+    salario : real
+    nome : caractere
+
+Inicio
+    idade <- 32
+    salario <- 4590.9
+    nome <- "Maria Silva"
+    
+    escreval("A funcionaria ", nome, " ganha", salario:8:2, " e tem ", idade, " anos.")
+
+Fimalgoritmo
