@@ -20,7 +20,6 @@
 | `vetores/` | Vetores e processamento de dados |
 | `matrizes/` | Operações com matrizes |
 
-Também há um exercício de multiplicação de matrizes na raiz.
 
 ## `02 / como executar`
 
